@@ -4,40 +4,6 @@ Este é um site de vendas de objetos eletrônicos criado usando o Angular. O obj
 
 ## Instalação
 
->Para instalar o projeto, siga as instruções abaixo:
-
-1 - Clone o repositório em sua máquina local.
-2 - Certifique-se de que o Node.js e o Angular CLI estão instalados em sua máquina.
-3 - Navegue até a pasta do projeto usando o terminal.
-4 - Execute o comando npm install para instalar as dependências do projeto.
-5 - Execute o comando ng serve para iniciar o servidor de desenvolvimento.
-6 - Acesse o site em seu navegador em http://localhost:4200/.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# DirkComputers (projeto de criação de site com angular)
-
-Este é um site de vendas de objetos eletrônicos criado usando o Angular. O objetivo deste projeto é fornecer uma plataforma online para a venda de dispositivos eletrônicos, principalmente periféricos de computados. Foi feito com base nas aulas ministradas no curso Start by Capgemini, e possui funcionalidades essenciais mas sem a implementação do backend. 
-
-## Instalação
-
 Para instalar o projeto, siga as instruções abaixo:
 
 1. Clone o repositório em sua máquina local.
