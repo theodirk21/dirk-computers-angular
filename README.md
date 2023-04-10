@@ -20,7 +20,7 @@ Para instalar o projeto, siga as instruções abaixo:
 - Atualização do numero de itens do carrinho na area de produto
 - Remoção e adição de mais unidades de produtos na aba carrinho
 - Formulário de contato com regras aplicadas e envio das respostas
-
+- Campo de busca pelos produtos, funcional a partir de qualquer página do site
 
 
 
