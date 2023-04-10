@@ -33,13 +33,18 @@ export class ContatoComponent implements OnInit{
   ]
   })
 
-  constructor(private fb: FormBuilder){
-    
-  }
+  constructor(
+    private fb: FormBuilder)
+    {}
 
 
   ngOnInit(): void {
    
+  }
+
+  enviarFormulario(){
+    alert("A mensagem foi enviada!");
+    this.formContato.reset();
   }
 
 }
